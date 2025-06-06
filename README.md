@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 AWS Projects:</h2>
 
-- <b>RDS/Aurora and Db Instance (AlgoExpert)</b>
+- <b>RDS/Aurora and Db Instance (https://github.com/CovenantUrch/AWS---Mariadb/blob/main/README.md)</b>
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
  
