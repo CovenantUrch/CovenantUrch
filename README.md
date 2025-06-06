@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 AWS Projects:</h2>
 
-- <b>RDS/Aurora and Db Instance (https://github.com/CovenantUrch/AWS---Mariadb/blob/main/README.md)</b>
+- <b>RDS/Aurora and Db Instance</b>
+- [Connecting a Mariadb to a DB Instance](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
  
