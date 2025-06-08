@@ -4,7 +4,7 @@
 
 - <b>RDS MariaDB/EC2</b>
 - [Creating and connecting to a MariaDB DB instance - Using the AWS Management Console](https://github.com/CovenantUrch/AWS---Mariadb)
-- [Creating and connecting to a MariaDB DB instance - Using AWS CloudFormation to create the database instance and EC2 instance](https://github.com/CovenantUrch/AWS---MariaDB2)
+- [Creating and connecting to a MariaDB DB instance - Using AWS CloudFormation to create the database instance and EC2 instance](https://github.com/CovenantUrch/MariaDB2)
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
  
