@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 AWS Projects:</h2>
 
-- <b>RDS/Aurora and Db Instance</b>
-- [Connecting a Mariadb to a DB Instance](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>RDS MariaDB/EC2</b>
+- [Creating and connecting to a MariaDB DB instance](https://github.com/CovenantUrch/AWS---Mariadb)
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
  
