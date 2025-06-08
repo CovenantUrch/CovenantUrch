@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Projects:</h2>
 
 - <b>RDS MariaDB/EC2</b>
-- [Creating and connecting to a MariaDB DB instance](https://github.com/CovenantUrch/AWS---Mariadb)
+- [Creating and connecting to a MariaDB DB instance - Using the AWS Management Console](https://github.com/CovenantUrch/AWS---Mariadb)
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
  
