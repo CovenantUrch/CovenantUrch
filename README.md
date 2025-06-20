@@ -3,7 +3,7 @@
 <h2>👨‍💻 AWS Projects:</h2>
 
 - <b>RDS MariaDB/EC2</b>
-- [RDS DATABASE](https://github.com/CovenantUrch/RDS-DB)
+- [ Web App + Amazon RDS MySQL Deployment on AWS](https://github.com/CovenantUrch/RDS-mysql-webapp-on-aws)
 - [AWS EFS + EC2 Setup Project](https://github.com/CovenantUrch/aws-efs-ec2-setup)
 - [Simple Café Website Deployment on AWS (Dev & Prod Setup)](https://github.com/CovenantUrch/aws-cafe-ordering-app)
 - [Creating and connecting to a MariaDB DB instance - Using the AWS Management Console](https://github.com/CovenantUrch/AWS---Mariadb)
