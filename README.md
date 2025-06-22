@@ -1,8 +1,9 @@
 <h1>Hi, I'm Covenant! <br/><a href="https://github.com/joshmadakor1">AWS Solutions Architect</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Project/Product Manager</a>
 
-<h2>👨‍💻 AWS Projects:</h2>
+<h2>👨‍💻 AWS Projects:</h2>Creating a VPC Networking Environment for the Café
 
-- [ec2-to-rds-mariadb-migration](https://github.com/CovenantUrch/ec2-to-rds-mariadb-migration)
+- [Creating a VPC Networking Environment for the Café](https://github.com/CovenantUrch/Secure-Two-Tier-VPC-AWS)
+- [EC2-to-RDS-Mariadb-migration](https://github.com/CovenantUrch/ec2-to-rds-mariadb-migration)
 - [ Web App + Amazon RDS MySQL Deployment on AWS](https://github.com/CovenantUrch/RDS-mysql-webapp-on-aws)
 - [AWS EFS + EC2 Setup Project](https://github.com/CovenantUrch/aws-efs-ec2-setup)
 - [Simple Café Website Deployment on AWS (Dev & Prod Setup)](https://github.com/CovenantUrch/aws-cafe-ordering-app)
