@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 AWS Projects:</h2>Creating a VPC Networking Environment for the Café
 
+- [Serverless-Inventory-Tracker](https://github.com/CovenantUrch/Serverless-Inventory-Tracker)
 - [Cafe-Infra-Automation](https://github.com/CovenantUrch/Automating-Infrastructure-Deployment)
 - [Scalable-cafe-website-AWS project:](https://github.com/CovenantUrch/Scalable-Cafe-Website-AWS)
 - [Secure-Two-Tier-VPC-AWS](https://github.com/CovenantUrch/Secure-Two-Tier-VPC-AWS)
