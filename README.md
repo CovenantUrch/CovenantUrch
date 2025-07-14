@@ -14,6 +14,11 @@
 - [Creating and connecting to a MariaDB DB instance - Using AWS CloudFormation to create the database instance and EC2 instance](https://github.com/CovenantUrch/MariaDB2)
 
 <h2>👨‍💻 CERTIFICATIONS:</h2>
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ef571c9f-5984-4258-b92e-e55145c492fb/public_url)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/822681e1-f959-44a8-bee7-eeaa59820abe/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/8b2d0c86-d169-4739-9a7a-eec8f1e9baa9/public_url)
+- [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/1af25aa1-686e-4318-9331-4de9835c4f28/public_url)
  
 
 <h2> 🤳 Connect with me:</h2>
