@@ -19,7 +19,8 @@
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/822681e1-f959-44a8-bee7-eeaa59820abe/public_url)
 - [AWS Academy Graduate - AWS Academy Cloud Architecting](https://www.credly.com/badges/8b2d0c86-d169-4739-9a7a-eec8f1e9baa9/public_url)
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/1af25aa1-686e-4318-9331-4de9835c4f28/public_url)
- 
+
+**To view my Project Management certifications, Please check my Linkedln**
 
 <h2> 🤳 Connect with me:</h2>
 
