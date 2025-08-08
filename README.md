@@ -8,6 +8,7 @@
 
 <h1>👨‍💻 AWS Projects:</h1>Creating a VPC Networking Environment for the Café
 
+- [AWS-Cafe-Ordering-App](https://github.com/CovenantUrch/aws-cafe-ordering-app)
 - [Serverless-Inventory-Tracker](https://github.com/CovenantUrch/Serverless-Inventory-Tracker)
 - [Cafe-Infra-Automation](https://github.com/CovenantUrch/Automating-Infrastructure-Deployment)
 - [Scalable-cafe-website-AWS project:](https://github.com/CovenantUrch/Scalable-Cafe-Website-AWS)
