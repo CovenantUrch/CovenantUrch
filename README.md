@@ -4,7 +4,7 @@
 
 - [ODOMOS Mosquito Repellent Product Launch](https://github.com/CovenantUrch/Odomos-Project)
 
-<h2>👨‍💻 AWS Projects:</h2>Creating a VPC Networking Environment for the Café
+<h1>👨‍💻 AWS Projects:</h1>Creating a VPC Networking Environment for the Café
 
 - [Serverless-Inventory-Tracker](https://github.com/CovenantUrch/Serverless-Inventory-Tracker)
 - [Cafe-Infra-Automation](https://github.com/CovenantUrch/Automating-Infrastructure-Deployment)
