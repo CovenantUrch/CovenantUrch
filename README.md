@@ -1,5 +1,9 @@
 <h1>Hi, I'm Covenant! <br/><a href="https://github.com/CovenantUrch">AWS Solutions Architect</a>, <a href="http://www.linkedin.com/in/covenantonwukwe">Project/Product Manager</a>
 
+<h1>👨‍💻 Projects As A Project Manager</h1>
+
+- [ODOMOS Mosquito Repellent Product Launch](https://github.com/CovenantUrch/Odomos-Project)
+
 <h2>👨‍💻 AWS Projects:</h2>Creating a VPC Networking Environment for the Café
 
 - [Serverless-Inventory-Tracker](https://github.com/CovenantUrch/Serverless-Inventory-Tracker)
@@ -21,10 +25,6 @@
 - [AWS Academy Graduate - AWS Academy Cloud Foundations](https://www.credly.com/badges/1af25aa1-686e-4318-9331-4de9835c4f28/public_url)
 
 **To view my Project Management certifications, Please check my Linkedln**
-
-<h1>👨‍💻 Projects As A Project Manager</h1>
-
-- [ODOMOS Mosquito Repellent Product Launch](https://github.com/CovenantUrch/Serverless-Inventory-Tracker)
 
 
 <h2> 🤳 Connect with me:</h2>
